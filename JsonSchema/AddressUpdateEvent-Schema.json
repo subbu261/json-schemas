@@ -33,8 +33,7 @@
           "type": "string",
           "enum": [
             "SUCCESS",
-            "FAILURE",
-            "DECLINED"
+            "FAILURE"
           ]
         },
         "eventVersion": {
